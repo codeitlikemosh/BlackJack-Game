@@ -1,0 +1,32 @@
+body {
+    background-image: url(https://www.wallpapertip.com/wmimgs/11-117688_wallpaper-green-one-colour-plain-solid-color-single.jpg);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-size: cover;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    margin-top: 250px;
+    padding-bottom: 100px;
+}
+h1 {
+    color: goldenrod;
+    font-size: 2.5cm;
+}
+#message-el {
+    font-style: italic;
+}
+p {
+    font-weight: 2cm;
+    padding: 0.3cm;
+}
+button {
+    color:#160f32;
+    background: goldenrod;
+    width: 150px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin: 4px;
+}
